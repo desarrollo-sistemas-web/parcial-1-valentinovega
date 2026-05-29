@@ -1,6 +1,6 @@
 <?php
 
-// Ejercicio 13: Crea una función llamada contarCaracteres que tome una cadena de texto y un carácter como parámetros, y devuelva el número de veces que aparece el carácter en la cadena. Por ejemplo, si se llama a la función con la cadena "Hola mundo" y el carácter "o", debería devolver el valor 2, ya que el carácter "o" aparece dos veces en la cadena.
+// Ejercicio 13: Crea una función llamada contarCaracteres que tome una cadena de texto y un carácter como parámetros,y devuelva el número de veces que aparece el carácter en la cadena. Por ejemplo, si se llama a la función con la cadena "Hola mundo" y el carácter "o", debería devolver el valor 2, ya que el carácter "o" aparece dos veces en la cadena.
 
 // Complejidad: ALTA (3 puntos)
 
