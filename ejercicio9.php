@@ -4,5 +4,6 @@
 //Complejidad: BAJA (1 punto)
 
 function generarTablaMultiplicar($num) {
-    // Tu código aquí
+    $resultado = $num * 1;
+    echo "$resultado";
 }
